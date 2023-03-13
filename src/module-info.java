@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kiljihun
+ *
+ */
+module mobicom {
+}
